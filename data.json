@@ -1,0 +1,50 @@
+[
+  {
+    "itemId": 1,
+    "name": "iPhone 14",
+    "price": 199,
+    "description": "Smart Phone Small Size",
+    "manufacturer": "Apple",
+    "Image": "https://9to5mac.com/wp-content/uploads/sites/6/2022/07/iphone-14-suppliers.jpg?quality=82&strip=all"
+  },
+  {
+    "itemId": 2,
+    "name": "iPhone 14 Pro",
+    "price": 299,
+    "description": "Smart Phone Medium Size",
+    "manufacturer": "Apple",
+    "Image": "https://cdn.mos.cms.futurecdn.net/RkuU6Vkztx6TbvZkD76BpX-1200-80.jpg"
+  },
+  {
+    "itemId": 3,
+    "name": "iPhone 14 Pro Max",
+    "price": 399,
+    "description": "Smart Phone Large Size",
+    "manufacturer": "Apple",
+    "Image": "https://cdn.wccftech.com/wp-content/uploads/2022/07/iPhone-14-Pro-and-iPhone-14-Pro-Max.jpg"
+  },
+  {
+    "itemId": 4,
+    "name": "Galaxy S22",
+    "price": 189,
+    "description": "Smart Phone Small Size",
+    "manufacturer": "Samsung",
+    "Image": "https://www.myxprs.com/galaxy-unpacked/images/gallery-base-phantom-black/backl30.png"
+  },
+  {
+    "itemId": 5,
+    "name": "Galaxy S22 Plus",
+    "price": 299,
+    "description": "Smart Phone Medium Size",
+    "manufacturer": "Samsung",
+    "Image": "https://images.samsung.com/is/image/samsung/p6pim/ca/2202/gallery/ca-galaxy-s22-plus-s906-sm-s906wzgaxac-530778229?$650_519_PNG$"
+  },
+  {
+    "itemId": 6,
+    "name": "Galaxy S22 Ultra",
+    "price": 429,
+    "description": "Smart Phone Large Size",
+    "manufacturer": "Samsung",
+    "Image": "https://images.samsung.com/is/image/samsung/p6pim/ca/2202/gallery/ca-galaxy-s22-ultra-s908-sm-s908wzwaxac-530780983?$650_519_PNG$"
+  }
+]
